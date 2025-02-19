@@ -10,7 +10,7 @@ edit system environment variables, double click path under system paths, add pat
 
 cd backend 
 
-mvn spring-boot-run 
+mvn spring-boot:run 
 
 open new terminal
 
